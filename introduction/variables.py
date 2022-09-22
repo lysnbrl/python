@@ -1,5 +1,5 @@
 curse_name = "Curso profesional de Python"
 curse_name = "Curso Python"
-fullname = "Jade Navarro Pérez"
+full_name = "Jade Navarro Pérez"
 
 print(curse_name)
